@@ -299,7 +299,14 @@
       "userId": 2,
       "id": "11",
       "title": "et ea vero quia laudantium autem",
-      "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
+      "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 1,
+        "heart": 1,
+        "rocket": 0,
+        "coffee": 0
+      }
     },
     {
       "userId": 2,
@@ -341,7 +348,14 @@
       "userId": 2,
       "id": "19",
       "title": "adipisci placeat illum aut reiciendis qui",
-      "body": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas"
+      "body": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas",
+      "reactions": {
+        "thumbsUp": 1,
+        "wow": 2,
+        "heart": 0,
+        "rocket": 0,
+        "coffee": 0
+      }
     },
     {
       "userId": 2,
@@ -395,7 +409,14 @@
       "userId": 3,
       "id": "28",
       "title": "delectus ullam et corporis nulla voluptas sequi",
-      "body": "non et quaerat ex quae ad maiores\nmaiores recusandae totam aut blanditiis mollitia quas illo\nut voluptatibus voluptatem\nsimilique nostrum eum"
+      "body": "non et quaerat ex quae ad maiores\nmaiores recusandae totam aut blanditiis mollitia quas illo\nut voluptatibus voluptatem\nsimilique nostrum eum",
+      "reactions": {
+        "thumbsUp": 0,
+        "wow": 0,
+        "heart": 1,
+        "rocket": 0,
+        "coffee": 0
+      }
     },
     {
       "userId": 3,
